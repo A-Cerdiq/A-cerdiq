@@ -1,0 +1,201 @@
+Age,Gender,Health Condition,State,Symptoms,Treatment Plan,Outcome,Days on Admission
+52,Female,Hypertension,Lagos,Fever,Observation,Deceased,5
+93,Male,Malaria,Lagos,Fatigue,Physical Therapy,Discharged,1
+15,Male,Asthma,Enugu,Fever,Observation,Under Treatment,19
+72,Female,Hypertension,Rivers,Fatigue,Observation,Under Treatment,10
+61,Female,Hypertension,Lagos,Fatigue,Observation,Deceased,12
+21,Female,COVID-19,Lagos,Fatigue,Surgery,Under Treatment,24
+83,Female,Hypertension,Rivers,Dizziness,Medication,Deceased,15
+87,Female,Asthma,Kano,Fever,Surgery,Recovered,27
+75,Female,Malaria,Rivers,Cough,Observation,Discharged,22
+75,Male,Malaria,Kano,Cough,Medication,Deceased,24
+88,Female,COVID-19,Enugu,Cough,Surgery,Deceased,9
+24,Female,Asthma,Kaduna,Chest Pain,Surgery,Deceased,20
+3,Male,Diabetes,Enugu,Cough,Surgery,Under Treatment,17
+22,Male,Diabetes,Kaduna,Cough,Physical Therapy,Deceased,17
+53,Male,Asthma,Lagos,Cough,Observation,Recovered,26
+2,Male,Asthma,Lagos,Chest Pain,Observation,Under Treatment,12
+88,Male,COVID-19,Lagos,Chest Pain,Medication,Discharged,12
+30,Male,Malaria,Kano,Fatigue,Surgery,Recovered,7
+38,Male,Asthma,Kaduna,Dizziness,Observation,Deceased,2
+2,Female,Malaria,Lagos,Chest Pain,Surgery,Recovered,3
+64,Female,Diabetes,Rivers,Chest Pain,Observation,Deceased,17
+60,Male,COVID-19,Kano,Fever,Surgery,Recovered,5
+21,Male,Diabetes,Kaduna,Cough,Observation,Under Treatment,17
+33,Male,COVID-19,Lagos,Chest Pain,Medication,Deceased,24
+76,Male,Asthma,Enugu,Chest Pain,Surgery,Under Treatment,17
+58,Female,COVID-19,Kano,Dizziness,Observation,Recovered,27
+22,Female,Hypertension,Lagos,Fever,Medication,Deceased,17
+89,Female,Malaria,Rivers,Dizziness,Medication,Discharged,2
+49,Female,Malaria,Rivers,Chest Pain,Observation,Discharged,2
+91,Male,Hypertension,Lagos,Chest Pain,Surgery,Deceased,28
+59,Male,Diabetes,Rivers,Fever,Physical Therapy,Recovered,22
+42,Female,Hypertension,Kano,Fatigue,Medication,Discharged,23
+92,Male,Asthma,Kano,Fatigue,Medication,Deceased,5
+60,Male,Asthma,Kaduna,Chest Pain,Observation,Discharged,1
+80,Female,COVID-19,Rivers,Chest Pain,Physical Therapy,Deceased,1
+15,Male,Asthma,Kaduna,Dizziness,Physical Therapy,Recovered,19
+62,Female,Malaria,Enugu,Dizziness,Physical Therapy,Recovered,2
+,Female,Hypertension,Kaduna,Dizziness,Observation,Under Treatment,21
+47,Male,Hypertension,Kano,Cough,Surgery,Discharged,12
+62,Female,Hypertension,Kano,Chest Pain,Medication,Under Treatment,26
+,Female,Malaria,Kano,Cough,Observation,Recovered,6
+55,Female,Hypertension,Kano,Fatigue,Physical Therapy,Deceased,23
+64,Female,Hypertension,Enugu,Fatigue,Medication,Under Treatment,4
+3,Female,Diabetes,Lagos,Chest Pain,Medication,Recovered,23
+51,Male,Hypertension,Kano,Fever,Physical Therapy,Deceased,11
+7,Male,Asthma,Rivers,Chest Pain,Physical Therapy,Under Treatment,24
+21,Male,Malaria,Enugu,Fatigue,Medication,Discharged,30
+73,Male,Diabetes,Kano,Chest Pain,Medication,Recovered,17
+39,Female,COVID-19,Rivers,Cough,Surgery,Recovered,6
+18,Female,COVID-19,Kano,Chest Pain,Medication,Discharged,24
+4,,Asthma,Lagos,Cough,Observation,Recovered,5
+89,Female,Malaria,Enugu,Dizziness,Medication,Discharged,20
+60,Male,Asthma,Lagos,Dizziness,Surgery,Discharged,2
+14,Female,Asthma,Enugu,Fever,Medication,Deceased,6
+9,Male,Asthma,Kano,Chest Pain,Physical Therapy,Deceased,22
+90,Male,Malaria,Kano,,Surgery,Under Treatment,11
+53,Male,COVID-19,Enugu,Dizziness,Physical Therapy,Under Treatment,16
+2,Male,COVID-19,Kano,Fever,Physical Therapy,Deceased,16
+84,Male,Malaria,Rivers,Fever,Physical Therapy,Under Treatment,1
+92,Male,Hypertension,Kano,Chest Pain,Observation,Under Treatment,365
+60,Female,Hypertension,Kano,Cough,Physical Therapy,Under Treatment,28
+71,Female,COVID-19,Lagos,Chest Pain,Observation,Recovered,27
+44,Male,Diabetes,Kano,Cough,Medication,Deceased,6
+8,Female,COVID-19,Enugu,Fever,Medication,Under Treatment,16
+47,Male,COVID-19,Rivers,Fatigue,Surgery,Deceased,29
+35,Female,COVID-19,Rivers,Chest Pain,Surgery,Under Treatment,3
+78,Female,Hypertension,Lagos,Fatigue,Observation,Under Treatment,5
+81,Male,Hypertension,Rivers,Cough,Medication,Deceased,2
+36,Male,Hypertension,Rivers,Chest Pain,Surgery,Discharged,27
+50,Female,COVID-19,Kaduna,Fatigue,Medication,Deceased,4
+4,Female,Diabetes,Enugu,Fatigue,Surgery,Discharged,19
+10,Female,Hypertension,Kaduna,Chest Pain,Medication,Recovered,26
+6,Male,Malaria,Rivers,,Surgery,Deceased,3
+54,Female,Malaria,Lagos,Chest Pain,Medication,Discharged,19
+4,Male,Malaria,Lagos,Fatigue,Physical Therapy,Under Treatment,20
+54,Male,Malaria,Rivers,Fever,Physical Therapy,Recovered,7
+93,Female,COVID-19,Kano,Chest Pain,Physical Therapy,Deceased,20
+63,Male,Malaria,Kaduna,Fever,Observation,Discharged,5
+18,Female,COVID-19,Rivers,Dizziness,Medication,Discharged,1
+11,Female,Malaria,Lagos,Fever,Surgery,Deceased,8
+44,Female,Diabetes,Lagos,Fatigue,Observation,Discharged,10
+13,Male,COVID-19,Kaduna,Cough,Observation,Deceased,18
+12,Female,Malaria,Enugu,Fever,Physical Therapy,Discharged,8
+62,Female,Hypertension,Rivers,Fever,Medication,Deceased,1
+14,Female,COVID-19,Rivers,Fever,Surgery,Deceased,450
+95,Female,Asthma,Enugu,Cough,Observation,Deceased,28
+48,Female,Asthma,Kaduna,Cough,Surgery,Recovered,25
+15,Female,Hypertension,Kaduna,Fever,Physical Therapy,Under Treatment,25
+72,Female,Asthma,Lagos,Cough,Medication,Deceased,1
+78,Male,Hypertension,Enugu,Cough,Surgery,Discharged,23
+87,Male,Hypertension,Kaduna,Cough,Surgery,Discharged,10
+62,Female,Malaria,Kano,Cough,Observation,Discharged,3
+40,Female,Malaria,Rivers,Chest Pain,Surgery,Recovered,7
+85,Male,COVID-19,Lagos,Fever,Medication,Deceased,28
+80,Female,COVID-19,Enugu,Dizziness,Medication,Discharged,16
+82,Female,COVID-19,Lagos,Cough,Surgery,Recovered,26
+53,Female,Malaria,Kaduna,Chest Pain,Observation,Recovered,16
+24,Male,COVID-19,Kaduna,Fatigue,Observation,Deceased,25
+26,Male,Hypertension,Kano,Fatigue,Physical Therapy,Discharged,20
+89,Female,Malaria,Rivers,Cough,Medication,Under Treatment,28
+60,Female,COVID-19,Enugu,Dizziness,Physical Therapy,Discharged,17
+41,Female,Hypertension,Lagos,Dizziness,Observation,Under Treatment,2
+29,Male,COVID-19,Rivers,Fever,Physical Therapy,Under Treatment,1
+15,Female,Diabetes,Kaduna,Cough,Observation,Discharged,16
+45,Female,COVID-19,Rivers,Fatigue,Physical Therapy,Under Treatment,12
+65,Female,Diabetes,Lagos,Fever,Physical Therapy,Recovered,5
+89,Male,COVID-19,Rivers,Dizziness,Medication,Recovered,5
+71,Female,Asthma,Kaduna,Fever,Medication,Discharged,27
+9,Male,COVID-19,Rivers,Fever,Physical Therapy,Deceased,23
+88,Female,Malaria,Enugu,Dizziness,Observation,Recovered,9
+1,Male,Malaria,Rivers,Chest Pain,Observation,Discharged,9
+8,Female,Diabetes,Enugu,Chest Pain,Medication,Under Treatment,3
+88,Male,Malaria,Rivers,Cough,Medication,Recovered,19
+63,Female,Hypertension,Kaduna,Fever,Surgery,Discharged,16
+11,Male,Asthma,Kano,Dizziness,Medication,Discharged,16
+81,Female,Asthma,Kano,Chest Pain,Observation,Discharged,3
+8,Female,Hypertension,Enugu,Fever,Medication,Under Treatment,20
+35,Female,Diabetes,Enugu,Fatigue,Surgery,Under Treatment,24
+35,Female,Hypertension,Kano,Dizziness,Physical Therapy,Under Treatment,22
+33,Male,Hypertension,Kaduna,Fever,Physical Therapy,Discharged,24
+5,Male,Asthma,Kaduna,Dizziness,Observation,Discharged,1
+41,Female,COVID-19,Rivers,Fever,Surgery,Under Treatment,24
+28,Male,Asthma,Enugu,Fatigue,Observation,Discharged,20
+7,Female,Asthma,Kaduna,Dizziness,Physical Therapy,Deceased,11
+73,Female,Malaria,Lagos,Chest Pain,Medication,Discharged,17
+72,Female,Hypertension,Rivers,Fatigue,Physical Therapy,Discharged,8
+12,Female,Asthma,Rivers,Fever,Observation,Recovered,4
+34,Female,Hypertension,Kano,Dizziness,Physical Therapy,Deceased,6
+33,Male,Malaria,Enugu,Fatigue,Observation,Recovered,8
+48,Male,Hypertension,Kaduna,Fever,Observation,Under Treatment,20
+,Female,Asthma,Kaduna,Chest Pain,Medication,Under Treatment,3
+62,Female,Hypertension,Rivers,Chest Pain,Surgery,Deceased,16
+88,Male,Malaria,Enugu,Fever,Observation,Discharged,25
+37,Male,COVID-19,Enugu,Chest Pain,Physical Therapy,Recovered,3
+99,Male,Hypertension,Enugu,Fatigue,Physical Therapy,Deceased,25
+44,Male,Asthma,Kano,Cough,Observation,Recovered,29
+86,Female,COVID-19,Kaduna,Cough,Physical Therapy,Discharged,18
+91,Female,Asthma,Enugu,Chest Pain,Medication,Recovered,14
+35,Female,Asthma,Kano,Cough,Physical Therapy,Deceased,18
+65,Male,Hypertension,Lagos,Dizziness,Medication,Discharged,2
+,Male,Asthma,Rivers,Fatigue,Observation,Deceased,22
+47,Male,Hypertension,Kaduna,Dizziness,Observation,Deceased,5
+78,Male,Malaria,Kaduna,Dizziness,Observation,Discharged,16
+3,Male,Asthma,Rivers,Chest Pain,Medication,Recovered,29
+1,Male,Asthma,Lagos,Chest Pain,Physical Therapy,Under Treatment,9
+5,Female,COVID-19,Kano,Chest Pain,Medication,Deceased,4
+90,Female,Diabetes,Rivers,Dizziness,Physical Therapy,Recovered,1
+14,Female,Diabetes,Kano,Fatigue,Physical Therapy,Discharged,4
+27,Male,Malaria,Kano,Fatigue,Medication,Under Treatment,1
+9,Male,Diabetes,Kano,Cough,Surgery,Discharged,14
+79,Male,Malaria,Lagos,Fever,Observation,Deceased,21
+15,Male,Diabetes,Lagos,Fatigue,Physical Therapy,Under Treatment,16
+90,Male,COVID-19,,Chest Pain,Physical Therapy,Deceased,20
+42,Male,Malaria,Enugu,Cough,Medication,Recovered,24
+77,Male,Diabetes,Kaduna,Chest Pain,Surgery,Under Treatment,8
+51,Male,COVID-19,Lagos,Dizziness,Observation,Recovered,7
+63,Female,Diabetes,Kano,Dizziness,Surgery,Recovered,3
+23,Male,Hypertension,Enugu,Chest Pain,Medication,Discharged,17
+52,Male,Hypertension,Kaduna,Fatigue,Physical Therapy,Deceased,1
+96,Female,COVID-19,Kano,Fever,Physical Therapy,Recovered,16
+4,Female,Asthma,Enugu,Chest Pain,Medication,Recovered,12
+94,Male,Asthma,Enugu,Fatigue,Medication,Under Treatment,27
+23,Female,Hypertension,Enugu,Cough,Surgery,Under Treatment,19
+15,Male,Hypertension,Kano,Chest Pain,Surgery,Deceased,22
+43,Female,Asthma,Kano,Cough,Observation,Deceased,23
+29,Female,Malaria,Lagos,Fatigue,Medication,Discharged,22
+36,Male,Asthma,Lagos,Fatigue,Surgery,Deceased,14
+13,Male,Diabetes,Enugu,Fatigue,Medication,Under Treatment,6
+32,Female,Hypertension,Kano,Fatigue,Surgery,Deceased,6
+71,Male,Diabetes,Kano,Dizziness,Medication,Recovered,13
+59,Female,Hypertension,Kaduna,Fatigue,Physical Therapy,Deceased,19
+86,Male,Malaria,Enugu,Dizziness,Medication,Deceased,22
+28,Male,Diabetes,Lagos,Fever,Surgery,Discharged,8
+66,Female,Diabetes,Kaduna,Dizziness,Physical Therapy,Recovered,27
+42,Female,COVID-19,Kaduna,Cough,Observation,Discharged,27
+45,Female,COVID-19,Lagos,Fever,Observation,Under Treatment,2
+62,Male,Asthma,Enugu,Cough,Physical Therapy,Deceased,21
+57,Female,Diabetes,Kano,Chest Pain,Physical Therapy,Deceased,1
+6,Male,Asthma,Enugu,Chest Pain,Physical Therapy,Under Treatment,28
+28,Male,Asthma,Kaduna,Dizziness,Surgery,Discharged,15
+28,Female,Hypertension,Kaduna,Cough,Physical Therapy,Recovered,1
+44,Female,Hypertension,Kaduna,Chest Pain,Surgery,Discharged,5
+84,Female,Diabetes,Rivers,Chest Pain,Physical Therapy,Discharged,17
+30,Male,Hypertension,Enugu,Chest Pain,Surgery,Recovered,29
+62,Male,Malaria,Kaduna,Fever,Surgery,Deceased,16
+75,Female,Diabetes,Kaduna,Fever,Medication,Discharged,19
+92,Female,Hypertension,Enugu,Fatigue,Observation,Under Treatment,4
+89,Female,Hypertension,Kaduna,Cough,Physical Therapy,Recovered,3
+62,Female,Asthma,Enugu,Chest Pain,Observation,Recovered,17
+97,Male,Malaria,Kaduna,Cough,Observation,Recovered,17
+1,Male,Diabetes,Enugu,Fatigue,Medication,Under Treatment,12
+27,Male,Diabetes,Enugu,Dizziness,Observation,Recovered,28
+62,Male,Asthma,Rivers,Fatigue,Observation,Recovered,29
+77,Female,Malaria,Kano,Chest Pain,Physical Therapy,Discharged,14
+3,Male,Diabetes,Rivers,Dizziness,Surgery,Under Treatment,12
+70,Male,Malaria,Kaduna,Dizziness,Physical Therapy,Under Treatment,6
+72,Male,Diabetes,Enugu,Fatigue,Physical Therapy,Deceased,3
+12,Female,Asthma,Lagos,Chest Pain,Observation,Recovered,28
+9,Female,COVID-19,Rivers,Dizziness,Observation,Under Treatment,9
+62,Female,Diabetes,Enugu,Fatigue,Physical Therapy,Under Treatment,5
